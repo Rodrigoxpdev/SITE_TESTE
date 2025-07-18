@@ -27,6 +27,7 @@ header > p {
     color: white;
     text-align: center;
     margin: 0px 0px 20px 0px;
+    font-size: 1.2em;
 }
 
 /* ------MENU DE NAVEGAÇÃO------- */
@@ -34,20 +35,24 @@ nav{
     color: white;
     display: flex;
 }
+
 nav ul{
     color: white;
     display: inline-flex;
     list-style: none;
     justify-content:start;
 }
+
 nav li{
     padding: 10px; 
     color: white;
 }
+
 nav a{
     color: white;
     text-decoration: none;
-    margin: 10px;
+    margin: 0px 30px 0px 0px;
+    font-size: 1.2em;
 }
 
 /* --------CONTEUDO PRINCIPAL-------- */
